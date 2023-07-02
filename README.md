@@ -1,18 +1,33 @@
-# longevityTools
+LONGEVITYTOOLS
+[JOIN THE CHAT AT 
+HTTPS://GITTER.IM/TGIRKE/LONGEVITYTOOLS]
+HTTPS://BADGES.GITTER.IM/TGIRKE/LONGEVITYTOOLS.SVG
 
-[![Join the chat at https://gitter.im/tgirke/longevityTools](https://badges.gitter.im/tgirke/longevityTools.svg)](https://gitter.im/tgirke/longevityTools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+HTTPS://GITTER.IM/TGIRKE/LONGEVITYTOOLS?UTM_SOURCE=BADGE&UTM_MEDIUM=BADGE&UTM_CAMPAIGN=PR-BADGE&UTM_CONTENT=BADGE
 
-R package defining the analysis routines used by the [Longevity Genomics](http://www.longevitygenomics.org/) project funded by NIA. The website of this GitHub project is available [here](http://girke.bioinformatics.ucr.edu/longevityTools). The HTML vignettes of the package are available here:
+R PACKAGE DEFINING THE ANALYSIS ROUTINES USED BY THE [LONGEVITY GENOMICS]
+HTTP://WWW.LONGEVITYGENOMICS.ORG/) PROJECT FUNDED BY NIA. THE WEBSITE OF THIS GITHUB PROJECT IS AVAILABLE [HERE]
+HTTP://GIRKE.BIOINFORMATICS.UCR.EDU/LONGEVITYTOOLS). THE HTML VIGNETTES OF THE PACKAGE ARE AVAILABLE HERE:
+LONGEVITYTOOLS
+HTTPS://HTMLPREVIEW.GITHUB.IO/
+HTTPS://GITHUB.COM/TGIRKE/LONGEVITYTOOLS/BLOB/MASTER/VIGNETTES/LONGEVITYTOOLS.HTML
+OVERVIEW VIGNETTE
+LONGEVITYTOOLS_EDRUG
+HTTPS://HTMLPREVIEW.GITHUB.IO/
+HTTPS://GITHUB.COM/TGIRKE/LONGEVITYTOOLS/BLOB/MASTER/VIGNETTES/LONGEVITYTOOLS_EDRUG.HTML
+CONNECTING DRUG-AND AGE-RELATED GENE EXPRESSION SIGNATURES
+LONGEVITYDRUGS
+HTTPS://GITHUB.COM/TGIRKE/LONGEVITYDRUGS
+STRUCTURES, PROPERTIES AND ANNOTATIONS OF SMALL MOLECULES ASSOCIATED WITH LONGEVITY
+LONGEVITYFEATURES]
+HTTPS://GITHUB.COM/TGIRKE/LONGEVITYFEATURES): GENES, PROTEINS AND OTHER FEATURES ASSOCIATED WITH LONGEVITY AND AGING
+PREDIXCAN
+HTTPS://HTMLPREVIEW.GITHUB.IO/?
+HTTPS://GITHUB.COM/TGIRKE/LONGEVITYTOOLS/BLOB/MASTER/VIGNETTES/LONGEVITYTOOLS_SOOD_PREDIXCAN.HTML
+APPLYING PREDIXCAN TO LONGEVITY.
 
-* [longevityTools](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools.html): overview vignette
-* [longevityTools_eDRUG](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_eDRUG.html): connecting drug- and age-related gene expression signatures
-* [longevityDrugs](https://github.com/tgirke/longevityDrugs): structures, properties and annotations of small molecules associated with longevity
-* [longevityFeatures](https://github.com/tgirke/longevityFeatures): genes, proteins and other features associated with longevity and aging
-* [PrediXcan](https://htmlpreview.github.io/?https://github.com/tgirke/longevityTools/blob/master/vignettes/longevityTools_Sood_prediXcan.html): Applying PrediXcan to longevity.
-
-#### Installation 
-
-```s
-source("http://bioconductor.org/biocLite.R")
-biocLite("tgirke/longevityTools", build_vignettes=FALSE, dependencies=FALSE)
-```
+INSTALLATION 
+SOURCE
+HTTP://BIOCONDUCTOR.ORG/BIOCLITE.R
+BIOCLITE
+TGIRKE/LONGEVITYTOOLS, BUILD_VIGNETTES=FALSE, DEPENDENCIES=FALSE
